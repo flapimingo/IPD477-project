@@ -1,0 +1,10 @@
+*.asv
+*.m~
+*.mat
+*.png
+*.jpg
+pics/
+cache/
+.*swp
+contrib/models/
+

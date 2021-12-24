@@ -1,0 +1,22 @@
+
+The framework was originally developed in the scope of a collaborative
+research project between Inria and IMT-Atlantique (ex. Telecom Bretagne).
+The project was funded by the CominLabs LABEX project SABRE.
+
+Lead Engineer,
+
+Jussi T. Lindgren / Inria - Design, architecture, components, development
+
+Contributions,
+
+Adrien Merlini / IMT      - Components, fixes, experiments, testing
+Axelle Pillain / IMT      - Inverse methods and leadfields
+Lyes Rahmouni / IMT       - Leadfields
+John-Erick Guzman / IMT   - Some components for Edelman/He pipeline
+
+The SABRE Management,
+
+Francesco Andriulli / IMT
+Anatole Lecuyer / Inria
+
+
